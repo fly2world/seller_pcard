@@ -1,0 +1,6 @@
+D:\winform\vs2015winform\recharege\recharege\bin\Debug\recharege.exe
+D:\winform\vs2015winform\recharege\recharege\bin\Debug\recharege.pdb
+D:\winform\vs2015winform\recharege\recharege\obj\Debug\recharege.exe
+D:\winform\vs2015winform\recharege\recharege\obj\Debug\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\obj\Debug\recharege.exe
+D:\wk_spaces_csharp\recharege\recharege\obj\Debug\recharege.pdb

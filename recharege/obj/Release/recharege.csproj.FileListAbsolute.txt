@@ -1,0 +1,11 @@
+D:\winform\vs2015winform\recharege\recharege\bin\Release\recharege.exe
+D:\winform\vs2015winform\recharege\recharege\bin\Release\recharege.pdb
+D:\winform\vs2015winform\recharege\recharege\bin\Release\Newtonsoft.Json.dll
+D:\winform\vs2015winform\recharege\recharege\obj\Release\recharege.exe
+D:\winform\vs2015winform\recharege\recharege\obj\Release\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\obj\Release\recharege.exe
+D:\wk_spaces_csharp\recharege\recharege\obj\Release\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\bin\Release\recharege.exe
+D:\wk_spaces_csharp\recharege\recharege\bin\Release\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\bin\Release\Newtonsoft.Json.dll
+D:\wk_spaces_csharp\recharege\recharege\obj\Release\recharege.csprojResolveAssemblyReference.cache
