@@ -14,6 +14,8 @@ namespace recharege
 
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.GetEncoding(936);
+
             if (args.Length < 1)
             {
                 Console.WriteLine("操作失败.参数不能为空.");
@@ -47,7 +49,7 @@ namespace recharege
             else if ("4".Equals(identification))
             {
                 //CPU卡钱包圈存初始化
-                uint money = uint.Parse(args[0].ToString().Trim());
+                uint money = uint.Parse(args[1].ToString().Trim());
                 Console.WriteLine(dllRechargeServiceImpl.CpuCardRechargeInitHandler(money));
             }
             else if ("5".Equals(identification))
@@ -82,10 +84,10 @@ namespace recharege
             {
                 //M1卡获取账户信息
                 uint rechargeMoney = uint.Parse(args[1].ToString().Trim());
-                string keyA =args[2].ToString().Trim();
+                string keyA = args[2].ToString().Trim();
                 uint rechargeType = uint.Parse(args[3].ToString().Trim());
 
-                Console.WriteLine(dllRechargeServiceImpl.M1ReadAccountInfoHandler(rechargeMoney,keyA,rechargeType));
+                Console.WriteLine(dllRechargeServiceImpl.M1ReadAccountInfoHandler(rechargeMoney, keyA, rechargeType));
             }
             else if ("11".Equals(identification))
             {

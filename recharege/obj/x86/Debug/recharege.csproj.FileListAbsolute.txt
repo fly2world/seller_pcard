@@ -1,0 +1,6 @@
+D:\wk_spaces_csharp\recharege\recharege\bin\x86\Debug\recharege.exe
+D:\wk_spaces_csharp\recharege\recharege\bin\x86\Debug\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\bin\x86\Debug\Newtonsoft.Json.dll
+D:\wk_spaces_csharp\recharege\recharege\obj\x86\Debug\recharege.exe
+D:\wk_spaces_csharp\recharege\recharege\obj\x86\Debug\recharege.pdb
+D:\wk_spaces_csharp\recharege\recharege\obj\x86\Debug\recharege.csprojResolveAssemblyReference.cache
